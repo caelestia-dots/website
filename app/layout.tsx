@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     template: '%s — Caelestia',
     default: 'Caelestia — A very segsy rice',
   },
-  description: 'The unofficial community site for Caelestia',
+  description: 'A fluid, morphing interface to your Linux desktop',
   robots: {
     follow: true,
     index: true,
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
       template: '%s — Caelestia',
       default: 'Caelestia — A very segsy rice',
     },
-    description: 'The unofficial community site for Caelestia',
+    description: 'A fluid, morphing interface to your Linux desktop',
     images: [
       {
         url: '/default.jpg',
