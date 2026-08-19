@@ -10,4 +10,4 @@ website-dev channel or get in touch with Evertiro on our [Discord].
 [website]: https://caelestiashell.com
 [Caelestia Shell repository]: https://github.com/caelestia-dots/shell
 [Caelestia dotfiles repository]: https://github.com/caelestia-dots/caelestia
-[Discord]: https://discord.gg/BGDCFCmMBk
+[Discord]: https://caelestiashell.com/discord
